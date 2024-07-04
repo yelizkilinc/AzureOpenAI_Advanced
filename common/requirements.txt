@@ -1,0 +1,8 @@
+openai
+typing-extensions
+python-dotenv
+tiktoken
+openai
+python-dotenv
+yfinance
+pillow
