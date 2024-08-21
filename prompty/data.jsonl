@@ -1,0 +1,3 @@
+{"question": "What's chat-GPT?", "chat_history": []}
+{"question": "How many questions did I ask?", "chat_history": []}
+{"question": "Summarize our conversation?", "chat_history": [{"role": "user","content": "where is the nearest coffee shop?"},{"role": "assistant","content": "I'm sorry, I don't know that. Would you like me to look it up for you?"},{"role": "user","content": "wat is Azure ML?"},{"role": "assistant","content": "Azure ML is a platform as a service."}]}

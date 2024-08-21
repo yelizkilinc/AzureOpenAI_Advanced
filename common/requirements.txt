@@ -2,3 +2,7 @@ openai
 typing-extensions
 python-dotenv
 tiktoken
+promptflow
+promptflow-tools
+promptflow-devkit
+keyrings.alt

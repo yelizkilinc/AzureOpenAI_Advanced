@@ -1,5 +1,6 @@
 {
-  "messages": [
+  "question": "How many questions did the user ask?",
+  "chat_history": [
     {
       "role": "user",
       "content": "where is the nearest coffee shop?"
@@ -7,8 +8,14 @@
     {
       "role": "assistant",
       "content": "I'm sorry, I don't know that. Would you like me to look it up for you?"
+    },
+    {
+      "role": "user",
+      "content": "what's the capital of France?"
+    },
+    {
+      "role": "assistant",
+      "content": "Paris"
     }
-  ],
-  "question": "How many questions did John Doe ask?",
-  "answer": "1 question."
+  ]
 }

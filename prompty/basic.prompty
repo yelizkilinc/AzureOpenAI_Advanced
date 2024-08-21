@@ -6,6 +6,8 @@ model:
     configuration:
         type: azure_openai
         azure_deployment: gpt-4-0125-Preview
+        api_key: ${env:AZURE_OPENAI_API_KEY}
+        azure_endpoint: ${env:AZURE_OPENAI_ENDPOINT}
     parameters:
         max_tokens: 128
         temperature: 0.2
