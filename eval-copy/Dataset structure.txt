@@ -1,0 +1,8 @@
+Dataset structure:
+Make sure your evaluation dataset (e.g., evaluation_data.jsonl) explicitly uses the following keys:
+{
+  "query": "your prompt here",
+  "response": "your completion here",
+  "context": "optional context if available",
+  "ground_truth": "expected answer or reference (if applicable)"
+}

@@ -1,0 +1,2 @@
+{"query": "What is the capital of France?", "response": "Paris.", "context": "France is a country in Europe.", "ground_truth": "Paris"}
+{"query": "Who wrote '1984'?", "response": "George Orwell.", "context": "George Orwell was an English novelist.", "ground_truth": "George Orwell"}
